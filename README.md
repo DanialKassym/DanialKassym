@@ -1,4 +1,4 @@
 ## Greetings 👋 
 
-I am Backend Developer passionate about Microservices Architecure.
+I am Backend Developer currently learning Modulith and Microservices architectures.
 Proficient in Java,C# and Golang
