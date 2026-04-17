@@ -1,3 +1,2 @@
-Backend & Infrastructure student
-Building microservices, backend systems and Linux-based infrastructure.
-Experience with Java, Go, C#, Docker, gRPC and networking fundamentals.
+Junior System / Network Engineer student
+Hands-on experience with Linux systems, networking fundamentals and containerized services (Docker, gRPC microservices).
